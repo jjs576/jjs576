@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Jisoo Joo
 42seoul cadet
 
-love python, hate javascript
+love python, cpp
 
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joblessking)
