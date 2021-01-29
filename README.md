@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 love python, hate javascript
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjs576&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joblessking)](https://solved.ac/joblessking)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joblessking)
+
+
+![42Profile](https://badge42.herokuapp.com/api/stats/jjoo?privacyEmail=true)
